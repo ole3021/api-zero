@@ -1,0 +1,24 @@
+API-ZERO:
+  - libs
+  - configs:
+    - standard.js:
+      - STANDARD_JS
+  - test
+  - scripts:
+    - SCRIPTS
+  - data:
+    - DOCKER & EXTERNAL_DATA
+  - containers:
+    - DOCKER
+  - services:
+    - SERVICES
+  - models:
+    - EXPRESS
+    - KOA
+  - controllers:
+    - EXPRESS
+    - KOA
+  - server:
+    - LOOPBACK
+  - docs:
+    - BLUE_PRINT

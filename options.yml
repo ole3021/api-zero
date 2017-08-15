@@ -1,0 +1,16 @@
+API-OPTIONS:
+  framework:
+    - EXPRESS
+    - KOA
+    - LOOPBACK
+  devops:
+    - DOCKER
+  docker:
+    - EXTERNAL_DATA
+  extra:
+    - SCRIPTS
+  docs:
+    - BLUE_PRINT
+  style:
+    - STANDARD_JS
+    - ES_LINT
