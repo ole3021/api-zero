@@ -1,0 +1,23 @@
+{
+  "name": "api-zero",
+  "version": "0.0.1",
+  "description": "API Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ole3021/api-zero.git"
+  },
+  "keywords": [
+    "api",
+    "generate"
+  ],
+  "author": "ole3021 (Oliver.W)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ole3021/api-zero/issues"
+  },
+  "homepage": "https://github.com/ole3021/api-zero#readme"
+}
